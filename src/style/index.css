@@ -1,0 +1,14 @@
+/* 页面的样式 */
+#i1 {
+    background-color: yellow;
+}
+.img {
+    width: 300px;
+    height: 300px;
+    border: 10px solid #ccc;
+    /* 设置一个背景图片 */
+    background-image: url(../images/gyy.jpg);
+}
+.glyphicon {
+    font-size: 100px;
+}
